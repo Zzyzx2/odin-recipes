@@ -18,3 +18,10 @@ img {
     padding: 10px;
     text-align: center;
 }
+
+.links-list {
+    background: rgba(82, 247, 67, 0.7);
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+}
