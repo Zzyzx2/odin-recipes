@@ -11,3 +11,10 @@ img {
     height: auto;
     width: 500px;
 }
+
+.index-header {
+    background: rgba(255, 57, 57, 0.7);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+}
