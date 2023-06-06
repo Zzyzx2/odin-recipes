@@ -25,3 +25,10 @@ img {
     margin: 0;
     padding: 5px;
 }
+
+.recipe-link {
+    background: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
